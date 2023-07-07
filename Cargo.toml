@@ -13,8 +13,8 @@ keywords = ["warp", "web", "static", "assets", "include"]
 [dependencies]
 warp = "0.3"
 log = "0.4"
-include_dir = { version = "0.6", default-features = false }
-urlencoding = "1.1"
+include_dir = { version = "0.7", default-features = false }
+urlencoding = "2.1"
 headers = "0.3"
 hyper = "0.14"
 http = "0.2"
